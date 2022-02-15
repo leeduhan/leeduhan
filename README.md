@@ -2,7 +2,7 @@
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
 <!-- 배지 https://shields.io/ 아이콘 https://simpleicons.org/ -->
 
-### 📚Main Stack
+## 📚Main Stack
 <div align=>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-### 📚Sub Stack
+## 📚Sub Stack
 
 #### Hybrid App
 <div align=>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white">
 </div>
 
-### ETC.
+## 📚ETC.
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/google analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
 </div>
 
-### 🔭To Do List
+## 🔭To Do List
 <div align=>
   <img src="https://img.shields.io/badge/nativescript-3655FF?style=for-the-badge&logo=nativescript&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
