@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white">
 </div>
 
-#### ETC.
+### ETC.
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
@@ -43,6 +43,15 @@
   <img src="https://img.shields.io/badge/amplitude-005AF0?style=for-the-badge&logo=amplitude&logoColor=white">
   <img src="https://img.shields.io/badge/braze-000000?style=for-the-badge&logo=braze&logoColor=white">
   <img src="https://img.shields.io/badge/google analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
+</div>
+
+### 🔭To Do List
+<div align=>
+  <img src="https://img.shields.io/badge/nativescript-3655FF?style=for-the-badge&logo=nativescript&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/apollographql-311C87?style=for-the-badge&logo=apollographql&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 <!--
 **leeduhan/leeduhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
