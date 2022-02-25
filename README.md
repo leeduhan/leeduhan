@@ -15,8 +15,8 @@
 
 #### Hybrid App
 <div align=>
-  <img src="https://img.shields.io/badge/apache cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black">
-  <img src="https://img.shields.io/badge/quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white">
+  <a href="https://cordova.apache.org/"><img src="https://img.shields.io/badge/apache cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black"></a>
+  <a href="https://quasar.dev/"><img src="https://img.shields.io/badge/quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white"></a>
 </div>
 
 ## 📚ETC.
