@@ -46,8 +46,8 @@
 
 ## 🔭To Do List
 <div align=>
-  <img src="https://img.shields.io/badge/nativescript-3655FF?style=for-the-badge&logo=nativescript&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <a href="https://nativescript.org/"><img src="https://img.shields.io/badge/nativescript-3655FF?style=for-the-badge&logo=nativescript&logoColor=white"></a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
   <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/apollographql-311C87?style=for-the-badge&logo=apollographql&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
