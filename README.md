@@ -38,7 +38,7 @@
 </div>
 
 <div align=>
-  <img src="https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white">
+  <a href="https://sentry.io/welcome/"><img src="https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"></a>
   <img src="https://img.shields.io/badge/amplitude-005AF0?style=for-the-badge&logo=amplitude&logoColor=white">
   <img src="https://img.shields.io/badge/braze-000000?style=for-the-badge&logo=braze&logoColor=white">
   <img src="https://img.shields.io/badge/google analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
